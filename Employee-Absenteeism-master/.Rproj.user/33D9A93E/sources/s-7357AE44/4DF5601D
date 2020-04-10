@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586515526875.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4DF5601D",
+    "lastKnownWriteTime" : 1586515862,
+    "last_content_update" : 1586515862434,
+    "path" : "C:/Users/Satish/Downloads/Employee-Absenteeism-master/Employee_Absenteeism_R.R",
+    "project_path" : "Employee_Absenteeism_R.R",
+    "properties" : {
+        "cursorPosition" : "41,21",
+        "scrollLine" : "30"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
